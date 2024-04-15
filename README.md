@@ -6,6 +6,8 @@ My interest primarily lies in the applicaiton of Machine learning or modelling t
 
 I also am interested in potential uses of music cognition in rehabilitation.
 
+In my free time, I dabble in playing various musical isntruments, although mastery eludes me.
+
 My publications can be found [here](publications.md)
 
 
@@ -17,16 +19,14 @@ My publications can be found [here](publications.md)
 
 ### Research Background
 
-I am currently a doctoral student in Memorial University of Newfoundland working on exploring how different musical timbres are encoded in physiological signals under the supervision of Ben Zendel at [CAANLab](https://caanlab.ca)
+I am currently a doctoral student at [CAANLab](https://caanlab.ca) in Memorial University of Newfoundland working on exploring how different musical timbres are encoded in physiological signals under the supervision of Ben Zendel.
 
-I completed my BEng in Computer Science in Nanyang Technological University (NTU) in 2015 where I explored using Machine Learning to detect ADHD on MRI scans, and my masters in Information Studies
+I previously completed my BEng in Computer Science in Nanyang Technological University (NTU) in 2015 where I explored using Machine Learning to detect ADHD on MRI scans.
 
 
 
 
 <!--
-**spraveena/spraveena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
