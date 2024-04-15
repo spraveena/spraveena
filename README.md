@@ -6,7 +6,7 @@ My interest primarily lies in the applicaiton of Machine learning or modelling t
 
 I also am interested in potential uses of music cognition in rehabilitation.
 
-In my free time, I dabble in playing various musical isntruments, although mastery eludes me.
+In my free time, I dabble in playing various musical instruments, although mastery in any of them eludes me.
 
 My publications can be found [here](publications.md)
 
