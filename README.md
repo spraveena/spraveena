@@ -23,6 +23,13 @@ I am currently a doctoral student at [CAANLab](https://caanlab.ca) in Memorial U
 
 I previously completed my BEng in Computer Science in Nanyang Technological University (NTU) in 2015 where I explored using Machine Learning to detect ADHD on MRI scans.
 
+### Please feel free to reach out to me here:
+[Email](psatkunaraja@mun.ca)<br>
+[LinkedIn](https://www.linkedin.com/in/praveenasatkunarajah/)<br>
+[Twitter](http://twitter.com/vsr_praveena)
+
+
+
 
 
 
