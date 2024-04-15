@@ -6,6 +6,7 @@ My interest primarily lies in the applicaiton of Machine learning or modelling t
 
 I also am interested in potential uses of music cognition in rehabilitation.
 
+My publications can be found [here](publications.md)
 
 
 
