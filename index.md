@@ -13,6 +13,8 @@ My publications can be found [here](publications.md)
 
 
 
+
+
 ### Research Background
 
 I am currently a doctoral student in Memorial University of Newfoundland working on exploring how different musical timbres are encoded in physiological signals under the supervision of Ben Zendel at [CAANLab](https://caanlab.ca)
