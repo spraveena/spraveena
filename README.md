@@ -1,6 +1,6 @@
 ## Praveena Satkunarajah
 
-### About
+### What I do
 <img align = "left" src="https://github.com/spraveena/spraveena/assets/10113006/6d1932cf-2637-42b1-a174-bca19c1ce71e" >
 My interest primarily lies in the applicaiton of Machine learning or modelling techniques to understand how our brain perceives and processes music, and in the development of potential applications of music cognition. My current research revolves around using Machine Learning on EEG signals to understand how timbre is encoded and processed in our brains. 
 
