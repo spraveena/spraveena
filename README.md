@@ -18,7 +18,7 @@ My publications can be found [here](publications.md)
 
 ### Research Background
 
-I am currently a doctoral student at [CAANLab](https://caanlab.ca) in Memorial University of Newfoundland working on exploring how different musical timbres are encoded in physiological signals under the supervision of Ben Zendel. I previously completed my BEng in [Computer Science in Nanyang Technological University (NTU)](https://www.ntu.edu.sg/scse) in 2015 where I explored using Machine Learning to detect ADHD on MRI scans.
+I am currently a doctoral student at [CAANLab](https://caanlab.ca) in Memorial University of Newfoundland working on exploring how different musical timbres are encoded in physiological signals under the supervision of Ben Zendel. I previously completed my BEng in [Computer Science in Nanyang Technological University (NTU)](https://www.ntu.edu.sg/scse) in 2015.
 
 ### I can be reached at:
 [Email](psatkunaraja@mun.ca)<br>
