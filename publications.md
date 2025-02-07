@@ -1,5 +1,5 @@
 ### Publications
-P. Satkunarajah, S. D. Power and B. R. Zendel, "Decoding Musical Timbre Perception from Single-Trial EEG Data," 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia, 2024, pp. 2016-2020, doi: 10.1109/SMC54092.2024.10831757.
+P. Satkunarajah, S. D. Power and B. R. Zendel, "Decoding Musical Timbre Perception from Single-Trial EEG Data," 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia, 2024, pp. 2016-2020, doi: [10.1109/SMC54092.2024.10831757](https://doi.org/10.1109/SMC54092.2024.10831757).
 
 Sauvé SA, Satkunarajah P, Cooke S, Demirkaplan Ö, Follett A, et al. (2024) Age and familiarity effects on musical memory. 
 PLOS ONE 19(7): e0305969. https://doi.org/10.1371/journal.pone.0305969
