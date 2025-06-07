@@ -29,5 +29,5 @@ Sauvé, S.A, **Satkunarajah, P.** & Zendel, B.R. (2023). Tracking the emergence 
 
 **Satkunarajah, P.** & Zendel, B.R. (2022). Using machine learning to classify EEG data based on timbre. Society of Music Perception and Cognition Conference. (Portland, USA)
 
-Satkunarajah, P. & Agres, K. R. (2021). Web-platform Prototype for Visualisation of Kinematic Data captured from a Music-based Tele-rehabilitation System. Talk presented at the International Conference on Music Perception and Cognition (ICMPC). Sheffield, UK (Virtual)
+**Satkunarajah, P.** & Agres, K. R. (2021). Web-platform Prototype for Visualisation of Kinematic Data captured from a Music-based Tele-rehabilitation System. Talk presented at the International Conference on Music Perception and Cognition (ICMPC). Sheffield, UK (Virtual)
 
