@@ -17,7 +17,7 @@ My publications can be found [here](publications.md)
 
 ### Research Background
 
-I am currently a doctoral candidate at [CAANLab](https://caanlab.ca) in Memorial University of Newfoundland working on exploring how different musical timbres are encoded in physiological signals under the supervision of Ben Zendel. I previously completed my BEng in Computer Science in Nanyang Technological University (NTU) in 2015 and also obtained a MSc in Informtion Studies.
+I am currently a doctoral candidate at [CAANLab](https://caanlab.ca) in Memorial University of Newfoundland working on exploring how different musical timbres are encoded in physiological signals under the supervision of Ben Zendel. I previously completed my BEng in Computer Science in Nanyang Technological University (NTU) in 2015 and also obtained a MSc in Information Studies.
 
 ### I can be reached at:
 [Email](psatkunaraja@mun.ca)<br>
