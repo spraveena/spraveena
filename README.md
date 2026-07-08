@@ -1,7 +1,7 @@
 ## Praveena Satkunarajah
 
 ### What I do
-Hello there. My interest primarily lies understanding how our brain perceives and processes music, the use of computational techniques to understand this process, and in the development of potential applications of music cognition. My current research revolves around using Machine Learning on EEG signals to understand how timbre is encoded and processed in our brains.<br><br>
+Hello there. My interest primarily lies understanding how our brain perceives and processes music, the use of computational techniques to understand this process, and in the development of potential applications of music cognition. My current research revolves around understanding how timbre is encoded and processed along the auditory pathway, abd how this differs across persons.<br><br>
 
 I am also interested in potential uses of music cognition in both motor and cognitive rehabilitation
 
