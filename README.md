@@ -1,23 +1,13 @@
 ## Praveena Satkunarajah
 
 ### What I do
-Hello there. My interest primarily lies understanding how our brain perceives and processes music, the use of computational techniques to understand this process, and in the development of potential applications of music cognition. My current research revolves around understanding how timbre is encoded and processed along the auditory pathway, abd how this differs across persons.<br><br>
-
-I am also interested in potential uses of music cognition in both motor and cognitive rehabilitation
+Hello there. My interest primarily lies understanding how our brain perceives and processes musical timbre, an important cue our brain relies on to segregate sound streams. My current work revolves around understanding how changes in plasticity or personal qualities (aging, musicianship) may affect neural representation of acoustic properties in physiological signals, and the use of computational techniques to understand or model this process. I am also interested in the development of potential applications of music cognition in the use of rehabilitation.<br><br>
 
 
 My publications can be found [here](publications.md)
 
+I am currently a Postdoctoral Fellow at [CAANLab](https://caanlab.ca) in Memorial University of Newfoundland working on exploring how different musical timbres are encoded and represented in physiological signals under the supervision of Ben Zendel. I previously completed my BEng in Computer Science in Nanyang Technological University (NTU) in 2015 and completed my PhD in Neuroscience under the supervision of Dr Ben Zendel.
 
-
-
-
-
-
-
-### Research Background
-
-I am currently a doctoral candidate at [CAANLab](https://caanlab.ca) in Memorial University of Newfoundland working on exploring how different musical timbres are encoded in physiological signals under the supervision of Ben Zendel. I previously completed my BEng in Computer Science in Nanyang Technological University (NTU) in 2015 and also obtained a MSc in Information Studies.
 
 ### I can be reached at:
 [Email](psatkunaraja@mun.ca)<br>
